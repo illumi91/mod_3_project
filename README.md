@@ -4,7 +4,7 @@
 
 - Northwind_small.sqlite: Raw Data
 - Project_Northwind_db.ipynb: Notebook for Analysis
-- Presentation Northwind (2).pdf: Final Presentation PDF
+- Presentation.pdf
 
 ## Introduction
 
@@ -187,24 +187,19 @@ We advice the management to understand why the others companies are taking longe
 ### Defining Null and Alternative Hipotheses
 
 
-**H_null** = there is no statistically difference beetwen different Countries in terms of Revenue
+**H_null** = there is no statistically  significant difference beetwen Europe and North-America in terms of Revenue
 
-**H_alt** =  there is statistically difference beetwen different Countries in terms of Revenue
+**H_alt** =  there is statistically significant difference beetwen Europe and North-America in terms of Revenue
 
-![https://raw.githubusercontent.com/illumi91/dsc-mod-3-project-online-ds-pt-051319/master/pics_countries/pic_countr.PNG](https://raw.githubusercontent.com/illumi91/dsc-mod-3-project-online-ds-pt-051319/master/pics_countries/pic_countr.PNG)
+![https://github.com/illumi91/mod_3_project/blob/master/pics_countries/ei.PNG](https://github.com/illumi91/mod_3_project/blob/master/pics_countries/ei.PNG)
 
-
-### Tukey Test
-
-![https://raw.githubusercontent.com/illumi91/dsc-mod-3-project-online-ds-pt-051319/master/pics_countries/Capture.PNG](https://raw.githubusercontent.com/illumi91/dsc-mod-3-project-online-ds-pt-051319/master/pics_countries/Capture.PNG)
 
 ### Conclusions
 
-We reject the Null Hypothesis for all the countries compared, in terms of Revenue.
+We reject the Null Hypothesis for all Groups compared, in terms of Revenue.
 
-The Profit is the same in proportion no matter which Country we take in consideration.
+The Profit is the same in proportion no matter which Group we take in consideration.
 
-For this reason we advice the management to keep investing also on those contries where the revenue is not as high as the others, in fact from the test results that on average the Revenue obtained is the same.
 
 
 # 6. There is statistically significant difference in terms of Revenue between different categories?
