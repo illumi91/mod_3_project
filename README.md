@@ -4,7 +4,7 @@
 
 - Northwind_small.sqlite: Raw Data
 - Project_Northwind_db.ipynb: Notebook for Analysis
-- Presentation.pdf
+- Presentation Northwind (2).pdf: Final Presentation PDF
 
 ## Introduction
 
